@@ -1,6 +1,6 @@
 ### Hi there 👋
-- Technical Computer Science student
-- Working on my future
+- Technical Computer Science student 👨🏼‍💻
+- Working on my future 📈
 <!--
 **wengstezze/wengstezze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

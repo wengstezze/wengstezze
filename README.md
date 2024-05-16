@@ -1,4 +1,5 @@
 ### Hi there 👋
+- Junior Data Analyst 💼
 - Technical Computer Science student 👨🏼‍💻
 - Working on my future 📈
 <!--
